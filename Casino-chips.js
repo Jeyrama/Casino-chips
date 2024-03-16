@@ -20,3 +20,6 @@ Note:
   Brute force is not the way to go here. 
   Look for a simplifying mathematical approach.
 */
+
+
+// Solution
