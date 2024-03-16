@@ -28,3 +28,5 @@ function solve(arr){
   let [a,b,c] = arr.sort((x,y)=>x-y)
   return Math.min(a+b,~~((a+b+c)/2))
 }
+
+// or
